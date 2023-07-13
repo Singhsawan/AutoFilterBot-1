@@ -13,8 +13,8 @@ I will take care of the rest. 😎"""
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: Nothing
-★ Username: @J_shree_ram
-★ ID: <code>5493832202</code>
+★ Username: @Shreeshiva323
+★ ID: <code>5536032493</code>
 ★ Country: india 🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
